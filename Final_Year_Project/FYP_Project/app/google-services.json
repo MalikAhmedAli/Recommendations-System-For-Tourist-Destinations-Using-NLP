@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842299069846",
+    "project_id": "tourismapp-d0380",
+    "storage_bucket": "tourismapp-d0380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842299069846:android:ba847c03caee2cd9abb9b7",
+        "android_client_info": {
+          "package_name": "n.rnu.isetr.tunisiatourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842299069846-d180j49shr9i2bhjo5qb4ts1goh9aoi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVyKqoIiRZ7_FrVr6oX_Pc3FmaljJTG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842299069846-d180j49shr9i2bhjo5qb4ts1goh9aoi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/welcomingActivity">
+    <activity
+        android:id="@+id/welcomingActivity"
+        android:name="com.fyp.kpktourism.WelcomingActivity"
+        android:label="activity_welcoming"
+        tools:layout="@layout/activity_welcoming" />
+    <fragment
+        android:id="@+id/destinationMain"
+        android:name="com.fyp.kpktourism.DestinationMain"
+        android:label="fragment_destination_main"
+        tools:layout="@layout/fragment_destination_main" />
+</navigation>
